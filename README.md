@@ -56,7 +56,7 @@ The system is built upon four core layers:
 
 ## 👥 Team Group 35
 
-This project was developed for the course **CPT208 Human-Centric Computing** at **Xi'an Jiaotong-Liverpool University (XJTLU)**.
+This project was developed for the course **CPT208 Human-Centric Computing** at **Xi'an Jiaotong-Liverpool University (XJTLU)** (in no particular order).
 
 * **Tonghui Wu** (2251076)
 * **Zihan Yu** (2252275)
